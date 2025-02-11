@@ -354,13 +354,13 @@
     "license_url": "https://choosealicense.com/licenses/apache-2.0/",
     "prompt_template": "<|fim_prefix|>{prefix}<|fim_suffix|>{suffix}<|fim_middle|>",
     "name": "Qwen2.5-Coder-7B",
-    "provider_url": "https://huggingface.co/Qwen/Qwen2.5-Coder-7B",
+    "provider_url": "https://huggingface.co/QuantFactory/Qwen2.5-7B-GGUF",
     "partition_urls": [
       {
         "urls": [
-          "https://huggingface.co/ikw/Qwen2.5-Coder-7B-GGUF/resolve/main/qwen2.5-coder-7b-q8_0.gguf"
+          "https://huggingface.co/QuantFactory/Qwen2.5-7B-GGUF/resolve/main/Qwen2.5-7B.Q4_K_M.gguf"
         ],
-        "sha256": "c80bf23d37f5e17f182c67302fdc4b141502ec50e10cf8464f22e522db3bd288"
+        "sha256": "3b5000da5278f238580339a81d5407815c263ddcb6e4c7b9116e6e3f943a60fd"
       }
     ],
     "sha256": ""
